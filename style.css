@@ -1,0 +1,22 @@
+.image1{
+     width: 15%;
+}
+.image2{
+    width: 350PX;
+    height: 250px;
+}
+.image3{
+     width: 350px;
+     height: 250px;
+}
+header{
+    text-align: center ;
+}
+.pera{
+    font-size: 20px;
+    text-align: center;
+}
+.card-header{
+    text-align: center ;
+    font-size: 30px;
+}
